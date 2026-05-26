@@ -92,21 +92,6 @@ I'm a full-stack developer based in Islamabad who's most valuable when the probl
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadRaeesArshad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B1014&title_color=70A5FD&icon_color=bf91f3" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRaeesArshad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1014&title_color=70A5FD&langs_count=8" alt="top langs"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRaeesArshad&theme=tokyonight&hide_border=true&background=0B1014&ring=70A5FD&fire=bf91f3&currStreakLabel=70A5FD" alt="streak" width="65%"/>
-
-</div>
-
----
-
 <div align="center">
 
 > _"Think across the whole stack before writing a single line of code."_
